@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulmrll&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=paul_Mrll&theme=dark">
